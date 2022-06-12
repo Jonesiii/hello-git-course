@@ -1,0 +1,1 @@
+This is a repository for a course on Git usage.
